@@ -1,0 +1,11 @@
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\bin\Debug\net5.0\C5N.Mapper.deps.json
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\bin\Debug\net5.0\C5N.Mapper.dll
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\bin\Debug\net5.0\ref\C5N.Mapper.dll
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\bin\Debug\net5.0\C5N.Mapper.pdb
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.AssemblyInfoInputs.cache
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.AssemblyInfo.cs
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.dll
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\ref\C5N.Mapper.dll
+C:\Users\kayak\Documents\dotnetcore5_news_website\Core5News\C5N.Mapper\obj\Debug\net5.0\C5N.Mapper.pdb
